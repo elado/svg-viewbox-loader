@@ -1,0 +1,25 @@
+{
+  "name": "svg-viewbox-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elado/svg-viewbox-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "svg",
+    "viewbox",
+    "size"
+  ],
+  "author": "Elad Ossadon <elad@ossadon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elado/svg-viewbox-loader/issues"
+  },
+  "homepage": "https://github.com/elado/svg-viewbox-loader#readme"
+}
